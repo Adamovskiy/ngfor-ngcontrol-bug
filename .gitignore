@@ -1,0 +1,16 @@
+/*.iml
+/local.properties
+/build/
+/deploy/
+/out/
+/.project
+/.classpath
+/.settings
+/bin/
+/libs/
+/.idea/
+#Dart
+/pubspec.lock
+/**/packages
+/.pub/
+/.packages
